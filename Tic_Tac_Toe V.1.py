@@ -49,7 +49,7 @@ def board_full():
 
     return True 
 
-# Tests
+# Test
 print(board)
 print(board_space(0,0))
 print(board_full())
